@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+huggingface_hub
+scikit-learn
+joblib
+datasets
